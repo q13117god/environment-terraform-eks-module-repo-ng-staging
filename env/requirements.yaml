@@ -19,3 +19,6 @@ dependencies:
 - name: python-http-jxboot-20200220001
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: php-helloworld-jxboot-20200220001
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
