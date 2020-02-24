@@ -12,7 +12,7 @@ dependencies:
   version: 0.0.4
 - name: node-http-jxboot-20200220001
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.3
+  version: 0.0.4
 - name: springweb-jxboot-202002200001
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
